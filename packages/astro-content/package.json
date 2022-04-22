@@ -1,0 +1,37 @@
+{
+  "name": "astro-content",
+  "version": "0.0.1",
+  "description": "Easy to use APIs for fetching content from popular Content Management Systems for the Astro JS framework",
+  "type": "module",
+  "types": "./types.d.ts",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafidMuhymin/astro-imagetools.git"
+  },
+  "keywords": [
+    "astro",
+    "astro-component",
+    "content",
+    "data",
+    "cms",
+    "wordpress",
+    "wp",
+    "integration"
+  ],
+  "author": "Rafid Muhymin Wafi <rafidmuhymin@gmail.com> (https://softhardsystem.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafidMuhymin/astro-content/issues"
+  },
+  "homepage": "https://github.com/RafidMuhymin/astro-content#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "astro": ">=0.26 || >=1.0.0-beta"
+  }
+}
